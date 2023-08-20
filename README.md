@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I'm currenlty working as Software Engineer at Sasken Technologies having 1+ years of Experience<br>🔭 I’m currently working on Application Framework & Middleware - Android<br>👯 I’m looking to collaborate on Machine Learning , Deep Learning with Android Applications<br>🤝 I’m looking for help with<br>🌱 I’m currently learning NLP, Computer vision<br>⚡ Fun fact - I'm lazy but smart<br>🤝 Reach me at: saipramod1619@gmail.com
+🔭 I'm currenlty working as Software Engineer at Sasken Technologies having 1+ years of Experience<br>🔭 I’m currently working on Application Framework & Middleware - Android<br>👯 I’m looking to collaborate on Machine Learning , Deep Learning with Android Applications<br>🌱 I’m currently learning NLP, Computer vision<br>⚡ Fun fact - I'm lazy but smart<br>🤝 Reach me at: saipramod1619@gmail.com
 
 
 ## 🌐 Socials:
